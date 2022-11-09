@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adithya Saish</h1>
-<h3 align="center">I am Full Stack Developer in Accenture</h3>
+<h3 align="center">Full Stack Developer @ Accenture</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dadisahis&label=Profile%20views&color=0e75b6&style=flat" alt="dadisahis" /> </p>
 
